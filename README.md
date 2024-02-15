@@ -5,7 +5,7 @@
 
 ### 💻 Технологии:
 
-<img alt="python" src="https://img.shields.io/badge/python-ORWELL?style=for-the-badge&logo=python&logoColor=2b5b84&color=3776ab"><img alt="django" src="https://img.shields.io/badge/django-ORWELL?style=for-the-badge&logo=django&color=0C4B33">
+<img alt="python" src="https://img.shields.io/badge/python-ORWELL?style=for-the-badge&logo=python&logoColor=2b5b84&color=3776ab"> <img alt="django" src="https://img.shields.io/badge/django-ORWELL?style=for-the-badge&logo=django&color=0C4B33">
 <img alt="fastapi" src="https://img.shields.io/badge/fastapi-ORWELL?style=for-the-badge&logo=fastapi&color=00ccb8">
 <img alt="DRF" src="https://img.shields.io/badge/DRF-ORWELL?style=for-the-badge&color=A30000">
 <img alt="docker" src="https://img.shields.io/badge/docker-ORWELL?style=for-the-badge&logo=docker&logoColor=1d63ed&color=FFFFFF">
@@ -34,6 +34,8 @@
 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/ThisIsOrwell/badges/large)
+
+### Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/telegram-ORWELL?style=for-the-badge&logo=telegram&color=0d1117)](https://t.me/Orlov_AD) [![Gmail Badge](https://img.shields.io/badge/Gmail-ORWELL?style=for-the-badge&logo=gmail&color=0d1117)](mailto:denisz.feher@gmail.com)
 
 
 <!--
