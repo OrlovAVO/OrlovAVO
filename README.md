@@ -6,9 +6,14 @@
 ### 💻 Технологии:
 
 <img alt="python" src="https://img.shields.io/badge/python-ORWELL?style=for-the-badge&logo=python&logoColor=2b5b84&color=3776ab"> <img alt="django" src="https://img.shields.io/badge/django-ORWELL?style=for-the-badge&logo=django&color=0C4B33">
+<img alt="flask" src="https://img.shields.io/badge/flask-ORWELL?style=for-the-badge&logo=flask&logoColor=212121&color=FFFFFF">
 <img alt="fastapi" src="https://img.shields.io/badge/fastapi-ORWELL?style=for-the-badge&logo=fastapi&color=00ccb8">
 <img alt="DRF" src="https://img.shields.io/badge/DRF-ORWELL?style=for-the-badge&color=A30000">
+<img alt="postgresql" src="https://img.shields.io/badge/postgresql-ORWELL?style=for-the-badge&logo=postgresql&logoColor=%20&color=212529">
+<img alt="mongodb" src="https://img.shields.io/badge/mogngodb-ORWELL?style=for-the-badge&logo=mongodb&logoColor=%20&color=%23001E2B">
+<img alt="graphql" src="https://img.shields.io/badge/graphql-ORWELL?style=for-the-badge&logo=graphql&logoColor=FF4081&color=202020">
 <img alt="docker" src="https://img.shields.io/badge/docker-ORWELL?style=for-the-badge&logo=docker&logoColor=1d63ed&color=FFFFFF">
+<img alt="nginx" src="https://img.shields.io/badge/nginx-ORWELL?style=for-the-badge&logo=nginx&logoColor=%2043A047&color=43A047">
 <img alt="redis" src="https://img.shields.io/badge/redis-ORWELL?style=for-the-badge&logo=redis&logoColor=a32422&color=161f31">
 <img alt="rabbitmq" src="https://img.shields.io/badge/rabbitmq-ORWELL?style=for-the-badge&logo=rabbitmq&logoColor=FF6600&color=FFFFFF">
 
