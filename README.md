@@ -28,9 +28,6 @@
     <a href="https://t.me/Orlov_AD" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
-    <a href="https://vk.com/or_well" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
-    </a>
     <a href="https://discord.com/users/or_well" target="_blank">
       <img src="https://www.svgrepo.com/show/331368/discord-v2.svg" width="40" height="40" alt="Discord"/>
     </a>
@@ -45,7 +42,9 @@
 
 <!--
 **OrlovAVO/OrlovAVO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+    <a href="https://vk.com/or_well" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
+    </a>
 Here are some ideas to get you started:
 <img alt="celery" src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoolor=fff" />&nbsp;
 - 🔭 I’m currently working on ...
