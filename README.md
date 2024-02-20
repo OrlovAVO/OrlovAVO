@@ -1,7 +1,8 @@
-###  Привет, я Python Backend разработчик 👋
+.
+<!--###  Привет, я Python Backend разработчик 👋
 
 
----
+
 
 ### 💻 Технологии:
 
@@ -37,7 +38,7 @@
 
 ![codewars](https://www.codewars.com/users/ThisIsOrwell/badges/large)
 
-### Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/telegram-ORWELL?style=for-the-badge&logo=telegram&color=0d1117)](https://t.me/Orlov_AD) [![Gmail Badge](https://img.shields.io/badge/Gmail-ORWELL?style=for-the-badge&logo=gmail&color=0d1117)](mailto:denisz.feher@gmail.com)
+### Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/telegram-ORWELL?style=for-the-badge&logo=telegram&color=0d1117)](https://t.me/Orlov_AD) [![Gmail Badge](https://img.shields.io/badge/Gmail-ORWELL?style=for-the-badge&logo=gmail&color=0d1117)](mailto:denisz.feher@gmail.com) 
 
 
 <!--
